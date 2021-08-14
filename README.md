@@ -16,7 +16,7 @@ I'm Joseph Benoy!
     <a href="https://www.instagram.com/joseph_benoy.eroorickal">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a>
-  <a href="https://www.twitter.com/amasdf">
+  <a href="https://twitter.com/JosephBenoy_dev">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a>
     <a href="https://medium.com/fef">
