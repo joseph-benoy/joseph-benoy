@@ -6,6 +6,9 @@ I'm Joseph Benoy!
   <a href="https://www.facebook.com/joseph.benoy.erurickal">
       <img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=3b5998" height=25>
   </a>
+    <a href="https://cyborgin.blogspot.com/">
+      <img src="https://img.shields.io/badge/blogger-%2312100E.svg?&style=for-the-badge&logo=blogger&logoColor=white&color=fc4f08" height=25>
+  </a>
   <a href="https://www.twitter.com/amalgta">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a>
