@@ -1,6 +1,6 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Amal George Thomas! 
+I'm Joseph Benoy! 
 </p>
 <p>
   <a href="https://www.twitter.com/amalgta">
@@ -35,8 +35,8 @@ I'm Amal George Thomas!
   </a>
 </p>
 
-![Amal's github stats](https://github-readme-stats.vercel.app/api?username=amalgta&count_private=true)
+![Amal's github stats](https://github-readme-stats.vercel.app/api?username=joseph-benoy&count_private=true)
 
-<h2 align='center'><i>Stay awesome!</i></h1>
+<h2 align='center'><i>Just do it!</i></h1>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amalgta_github_profile)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=joseph-benoy_github_profile)
