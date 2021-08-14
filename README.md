@@ -15,7 +15,7 @@ I'm Joseph Benoy!
   <a href="https://medium.com/fef">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
   </a>
-  <a href="https://dev.to/eee">
+  <a href="https://dev.to/josephbenoy">
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" height=25>
   </a>
   <a href="https://github.com/joseph-benoy">
