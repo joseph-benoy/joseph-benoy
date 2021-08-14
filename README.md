@@ -10,7 +10,7 @@ I'm Joseph Benoy!
   <a href="https://cyborgin.blogspot.com/">
       <img src="https://img.shields.io/badge/blogger-%2312100E.svg?&style=for-the-badge&logo=blogger&logoColor=white&color=fc4f08" height=25>
   </a>
-    <a href="https://cyborgin.blogspot.com/">
+    <a href="https://t.me/joseph_benoy">
       <img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=0088cc" height=25>
   </a>
   <a href="https://www.twitter.com/amasdf">
