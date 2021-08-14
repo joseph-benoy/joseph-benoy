@@ -21,7 +21,7 @@ I'm Joseph Benoy!
   <a href="https://github.com/joseph-benoy">
     <img src="https://img.shields.io/badge/github-%230A0A0A.svg?&style=for-the-badge&logo=github&logoColor=white" height=25>
   </a>
-  <a href="https://youtube.com/asdfdfmadfdfflfdsfdfgtdfdffadf">
+  <a href="https://www.youtube.com/channel/UCdSpfVeeTRjeNigJ6eGO6FQ">
     <img src="https://img.shields.io/badge/youtube-%23E62117.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25>
   </a>
   <a href="https://play.google.com/store/apps/dev?id=5912633885029902327">
