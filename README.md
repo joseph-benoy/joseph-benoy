@@ -1,7 +1,7 @@
 <h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
+<h3 align='center'>
 I'm Joseph Benoy! 
-</p>
+</h3>
 <p>
   <a href="https://www.twitter.com/amalgta">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
