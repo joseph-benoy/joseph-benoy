@@ -27,7 +27,7 @@ I'm Joseph Benoy!
   <a href="https://play.google.com/store/apps/dev?id=5912633885029902327">
     <img src="https://img.shields.io/badge/google%20play-%23414141.svg?&style=for-the-badge&logo=google-play&logoColor=white" height=25>
   </a>
-  <a href="https://stackoverflow.com/users/2972370/amal-george-thomas?tab=profile">
+  <a href="https://stackoverflow.com/users/13155792/joseph-benoy">
     <img src="https://img.shields.io/badge/stack%20overflow-%23FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white" height=25>
   </a>
   <a href="https://drive.google.com/file/d/1varr_WGVlLAL8tgNhUWkwmQpFHvWdZ0x/view?usp=sharing">
