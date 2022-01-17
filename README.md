@@ -45,8 +45,7 @@ I'm Joseph Benoy!
   </a>
 </p>
 
-![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=joseph-benoy&count_private=true)
-
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseph-benoy&count_private=true)
 <h2 align='center'><i>Just do it!</i></h1>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=joseph-benoy_github_profile)
